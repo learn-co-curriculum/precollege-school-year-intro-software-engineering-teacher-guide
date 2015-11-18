@@ -1,32 +1,35 @@
-# HS INTRO SOFTWARE COURSE OUTLINE
+# Intro to Software Engineering - Teacher Guide
 
-## Overview
-This repository will act as a course guide/masterplan for Intro to Software Engineering. 
+## Overview - School Year Guide
+This repository will act as a course guide for School Year teachers to use Flatiron's Intro to Software Engineering curriculum.
+ 
 Here you'll find:
 
-+ A course outline listing days and topics
-+ A guide for each day listing with schedule for deck, lectures, and labs
-+ A full lecture script as well as abridged notes for each lecture
++ A course outline listing units and topics.
++ A guide for each unit listing resources such as decks, lectures, and labs.
++ A full lecture script as well as abridged notes for each lecture.
+
+Note: Given differing class and course lengths, we have not broken down the material by day or class. We suggest moving through the content in chronological order, adjusting the pace of the course based on the class' ability to comprehend and apply the material in question.
 
 ## Course Outline
 
-### [Day 1 - Intro to Ruby](day-01)
+### [Unit 1 - Intro to Ruby](unit-01)
 
-### [Day 2 - Methods](day-02)
+### [Unit 2 - Methods](unit-02)
 
-### [Day 3 - Arrays and Hashes](day-03)
+### [Unit 3 - Arrays and Hashes](unit-03)
 
-### [Day 4 - If/Else Statements](day-04)
+### [Unit 4 - If/Else Statements](unit-04)
 
-### [Day 5 - Object Orientation](day-05)
+### [Unit 5 - Object Orientation](unit-05)
 
-### [Day 6 - OO Group Project](day-06)
+### [Unit 6 - OO Group Project](unit-06)
 
-### [Day 7 - HTML and CSS](day-07)
+### [Unit 7 - HTML and CSS](unit-07)
 
-### [Day 8 - MVC and Ideation](day-08)
+### [Unit 8 - MVC and Ideation](unit-08)
 
-### [Day 9 - APIs](day-09)
+### [Unit 9 - APIs](unit-09)
 
-### [Day 10 - Graduation](day-10)
+### [Unit 10 - Graduation](unit-10)
 
