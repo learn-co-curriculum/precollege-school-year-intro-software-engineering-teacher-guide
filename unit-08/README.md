@@ -1,28 +1,20 @@
-# Day 8
+# Unit 8
 
-## Schedule
+## Unit Overview
 
-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
-
-**Please feel free to rearrange the schedule based on students' needs. Forms can get pushed to Day 9**
 
 <table>
 	<tr>
-	  <td>Time</td>
 	  <td>Activity</td>
 	  <td>Resources</td>
 	</tr>
 	<tr>
-    <td>9:00 - 9:15</td>
-    <td>To-Do</td>
+    <td>Warm Up</td>
     <td>
-        <a href="https://docs.google.com/presentation/d/1dMWapRSQSgaxv1ePUNYykmWB8s6aMfalFRHv5DXJYX4/edit#slide=id.g415fa6f76_018">Day 8 Deck</a></br>
-
         <a href="https://GitHub.com/learn-co-curriculum/hs-ruby-refresh-todo">To-Do: Ruby Refresh</a>
     </td>
   </tr>
   <tr>
-    <td>9:15 - 11:30</td>
     <td>MVC</td>
     <td>
     	<a href="lectures/mvc">Lecture: MVC</a></br>
@@ -31,33 +23,21 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     	<a href="https://GitHub.com/learn-co-curriculum/hs-mvc-interactive-practice">Interactive Practice: MVC Framework</a>
     </td>
   </tr>
-  <tr>
-    <td>11:30 - 12:30</td>
-    <td>Lunch</td>
-    <td>
-       
-   	</td>
-  </tr>
    <tr>
-    <td>12:30 - 2:50</td>
     <td>Ideation and Project Review</td>
     <td>
     	<a href="lectures/ideation">Lecture: Ideation</a></br>
    </td>
   </tr>
   <tr>
-    <td>2:50 - 3:00</td>
     <td>Wrap Up</td>
     <td>
-       Tell kids they are awesome.</br>
-
-       Micro Feedback</br>
-
 	     <a href="https://GitHub.com/learn-co-curriculum/hs-intro-ruby-code-challenge-8">Code Challenge: Words Challenge</a>
    	</td>
   </tr>
 </table>
 
+## SWBAT
 + MODEL - Understand what a model is
 + MODELS - Build a model with attributes and actions
 + MODELS - Understand what attr_accessors are and how to use them

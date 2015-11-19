@@ -31,5 +31,3 @@ Note: Given differing class and course lengths, we have not broken down the mate
 
 ### [Unit 9 - APIs](unit-09)
 
-### [Unit 10 - Graduation](unit-10)
-

@@ -22,18 +22,6 @@
 + METHODS - create a custom method using arguments
 
 ## Motivation
-+ Remember the cool drone we played with on day 1? We gave it commands using methods. [Show the class some of the code.] 
-```ruby
-	drone.take_off
-	sleep 5
-	drone.turn_right(1.0)
-	sleep 5
-	drone.turn_left(1.0)
-	sleep 5 
-	drone.hover.land [chaining]
-	sleep 5
-	drone.stop
-```
 + Coding becomes powerful when you start writing your own methods like the ones used to control the drone. Soon you will know enough about methods to create your own drone army.
 
 

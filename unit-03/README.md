@@ -1,24 +1,19 @@
-# Day 3
+# Unit 3
 
-## Schedule
-
-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
+## Unit Breakdown
 
 <table>
     <tr>
-        <td>Time</td>
         <td>Activity</td>
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:15</td>
-        <td>To-Do</td>
+        <td>Warm Up</td>
         <td>
-            <a href="https://docs.google.com/presentation/d/1XFklyQuHRVgEgERYsHcyhIniOL3kewq6-Ajjp5HiPt4/edit#slide=id.p">Day 3 Deck</a></br>
+
             <a href="https://GitHub.com/learn-co-curriculum/hs-data-structures-to-do">To-Do: Crazy Strings</a>
         </td>
     </tr>
-    <td>9:15 - 10:30</td>
         <td>Test Driven Development</td>
         <td>
            <a href="lectures/test-driven-development/LECTURE.md">Lecture: Test Driven Development</a></br>
@@ -32,14 +27,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>10:30 - 10:35</td>
-        <td>Take a break</td>
-        <td>
-            TDD is hard - make sure to take a break afterwards!
-        </td>
-    </tr>
-    <tr>
-        <td>10:35 - 11:30</td>
         <td>Intro to Arrays</td>
         <td>
         	<a href="lectures/arrays/LECTURE.md">Lecture: Intro to Arrays</a></br>
@@ -58,21 +45,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
             <a href="https://GitHub.com/learn-co-curriculum/my-each">Stretch Lab: Creating Your Own .each</a>
         </td>
     </tr>
+
     <tr>
-        <td>11:30 - 12:30</td>
-        <td>Lunch</td>
-        <td>
-        </td>
-    </tr>
-    <tr>
-        <td>12:30 - 1:00</td>
-        <td>Improv</td>
-        <td>
-            <a href="https://GitHub.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
-        </td>
-    </tr>
-    <tr>
-        <td>1:00 - 2:00</td>
         <td>Intro to Hashes</td>
         <td>
            <a href="lectures/hashes/LECTURE.md">Lecture: Intro to Hashes</a></br>
@@ -96,20 +70,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>2:00 - 2:50</td>
-        <td>Labs</td>
-        <td>
-        	Keep working on Labs</br>
-        </td>
-    </tr>
-    <tr>
-        <td>2:50 - 3:00</td>
         <td>Wrap Up</td>
         <td>
-            Tell kids they are awesome.</br>
-
-            Micro Feedback</br>
-
             <a href="https://GitHub.com/learn-co-curriculum/hs-intro-ruby-code-challenge-3">Code Challenge: Arrays and Hashes</a>
         </td>
     </tr>

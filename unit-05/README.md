@@ -1,18 +1,14 @@
-# Day 5
+# Unit 5
 
-## Schedule
-
-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
+## Unit Overview
 
 <table>
 
 	<tr>
-	  <td>Time</td>
 	  <td>Activity</td>
 	  <td>Resources</td>
 	</tr>	
 	<tr>
-    <td>9:00 - 9:15</td>
     <td>To-Do</td>
     <td>
         <a href="https://docs.google.com/presentation/d/1QtA-vrZUxAFszcRta9kCW1Xk6rRnO7-Qe2PYdu9kYxc/edit#slide=id.g497b61ce2_018">Day 5 Deck</a></br>
@@ -25,7 +21,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </td>
   </tr>
   <tr>
-	  <td>9:15 - 10:00</td>
 	  <td>Getting Your Code on GitHub</td>
 	  <td>
 	      <a href="lectures/GitHub-and-git-ii/LECTURE.md">Lecture: GitHub and Git II</a></br>
@@ -34,7 +29,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 	  </td>
    </tr>
   <tr>
-	  <td>10:00 - 11:30</td>
 	  <td>Intro to OO</td>
 	  <td>
 	      <a href="lectures/object-orientation/LECTURE.md">Lecture: Object Orientation</a></br>
@@ -48,12 +42,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 	  </td>
    </tr>
    <tr>
-      <td>11:30 - 12:30</td>
-      <td>Lunch</td>
-      <td></td>
-    </tr>
-   <tr>
-		 <td>12:30 - 1:00</td>
 		 <td>More OO</td>
 		 <td>
 		 	<a href="lectures/object-orientation/LECTURE.md">Lecture: Object Orientation</a></br>
@@ -65,21 +53,8 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
    	</tr>
    	
     <tr>
-     	<td>1:00 - 2:50</td>
-      <td>More Labs</td>
-	  		<td>
-	        Keep working on OO Labs
-	    </td>
-    </tr>
-    <tr>
-	    <td>2:50 - 3:00</td>
 	    <td>Wrap Up</td>
-	    <td>
-	        Tell kids they are awesome.</br>
-	        
-	        Mid Course Survey
-          </br>
-
+	    <td>	        
 	        <a href="https://GitHub.com/learn-co-curriculum/hs-intro-ruby-code-challenge-5">Code Challenge: Facebook</a>
 	    </td>
     </tr>

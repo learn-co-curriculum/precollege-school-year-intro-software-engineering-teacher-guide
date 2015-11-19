@@ -1,33 +1,26 @@
-# Day 1
+# Unit 1: Intro To Ruby
 
-## Schedule
+## Unit Breakdown
 
-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
 
 <table>
     <tr>
-        <td>Time</td>
         <td>Activity</td>
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
         <td>Orientation</td>
         <td>
             <a href="https://docs.google.com/presentation/d/1mlaIykpMkEtuGoOOKpup_dcJGLfew3RGAL3rHlwvQmg/edit#slide=id.p">Day 1 Deck</a>
         </td>
     </tr>
     <tr>
-        <td>10:00 - 10:30</td>
         <td>Learn Setup and Demo</td>
         <td>
-            <a href="https://GitHub.com/learn-co-curriculum/tf-using-nitrous-io">Lecture Guides: Nitrous Setup</a>
-            <br>
-           <a href="https://GitHub.com/learn-co-curriculum/hs-nitrous-ssh-setup"> Nitrous Trouble Shooting/Setup</a>
+           Invite students to the Learn.co batch. Walk through the sign up process.
         </td>
     </tr>
     <tr>
-        <td>10:30 - 11:30</td>
         <td>Navigating the Command Line</td>
         <td>
             <a href="lectures/intro-to-command-line/LECTURE.md">Lecture: Intro to the Command Line</a></br>
@@ -39,20 +32,12 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>11:30 - 12:30</td>
-        <td>Lunch</td>
-        <td>
-            <p>Order Pizza</p>
-        </td>
-    </tr>
-    <tr>
-        <td>12:30 - 1:30</td>
         <td>Intro to Ruby</td>
         <td>
             <a href="lectures/intro-to-ruby/LECTURE.md">Lecture: Intro to Ruby</a></br>
             <a href="lectures/intro-to-ruby">Lecture Notes</a></br>
             <a href="https://GitHub.com/learn-co-curriculum/hs-strings-mini-lab">Lab: Interactive Practice - Strings</a></br>
-            <a href-"https://github.com/learn-co-curriculum/silly_string">Lab: Silly String</a><br>
+            <a href="https://github.com/learn-co-curriculum/silly_string">Lab: Silly String</a><br>
             <a href="https://GitHub.com/learn-co-curriculum/hs-user-input-mini-lab">Lab: User Input</a></br>
             <a href="https://GitHub.com/learn-co-curriculum/hs-invitation-maker-lab">Lab: Invitation Maker</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-user-input-flatiron-graduation-invititation">Stretch Lab: CLI Flatiron Graduation Invitation Maker</a></br>
@@ -60,57 +45,14 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>1:30 - 2:50</td>
-        <td>Ruby Labs</td>
+        <td>Wrap Up/Assessment</td>
         <td>
-            Keep working on Ruby Labs from earlier
-        </td>
-    </tr>
-    <tr>
-        <td>2:50 - 3:00</td>
-        <td>Wrap Up</td>
-        <td>
-            Tell kids they are awesome.</br>
-
-            Micro Feedback<br>
-
             <a href="https://github.com/learn-co-curriculum/hs-intro-ruby-code-challenge-1"> Freak Out Code Challenge</a>
         </td>
     </tr>
 </table>
 
-##Tips for Day 1
-
-[Tips](https://docs.google.com/a/flatironschool.com/document/d/1q9xnXgAWXJPaBx358NytoHF4yKStTCphlVpFpazGkjM)
-
-###Before Class One:
-+ Find out how many kids need computers / set up computers
-+ Make sure kids are on Shortpath
-+ Send Welcome email
-+ Make sure all students have been added to GitHub team (GitHub team is made automatically when Ironboard batch is created and will have the same name, e.g. after-school-000)
-+ Deploy labs and check them:
-+ Make sure that team repository has been created (something like https://GitHub.com/flatiron-school-ironboard/hs-ruby-assessment-after-school-advanced-000).
-+ Make sure you have a credit card to order pizza lunch (Elana can pre-order from Williamsburg Pizza but you should call the morning of class to make sure it is coming)
-
-###Day Before:
-+ Make sure kids have access to building
-+ Make sure students know lunch isn't provided
-+ Review best practices around instruction strategies and tactics
-+ Prepare energetic start to class
-+ Full walkthrough of the entire lesson/labs
-+ Make key points list of learning objectives
-+ Make sure all labs are deployed
-+ Make sure surveys are printed or link to survey has been added to Ironboard 
-
-###Day of:
-+ Have music playing when students enter the class
-+ Schedule on board before kids go in
-+ hand out surveys at the end of class (or direct students to survey on Ironboard)
-+ deliver REALLY energetic start to class
-+ summarize what learned during class and deliver teaser for next week
-+ actively use students names during class
-+ break up lecture with interactivity
-
+##Tips for Unit 1
 
 ##SWBATs
 + CLI ‐ Understand and explain what terminal is and why we use it.

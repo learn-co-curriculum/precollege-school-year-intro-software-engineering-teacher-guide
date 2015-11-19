@@ -20,6 +20,7 @@ Back in the day (the 1980s!), computers only had a terminal to control them. Lat
 ***Any students that have done this lesson before should do the advanced CLI Bash Scripting Lab***
 
 You're going to learn about the command line by planning for a trip. 
+
 + Open your terminal. You'll see a tilde: `~`. This means you're in your user's home directory.
 + Enter `pwd`. Explain `pwd` means print working directory.
 + Let's change directories. First check what directories are within the directory where you are standing by using `ls`.
