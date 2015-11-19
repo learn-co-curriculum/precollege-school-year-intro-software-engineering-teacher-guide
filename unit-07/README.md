@@ -50,12 +50,6 @@
   	</td>
   </tr>
   <tr>
-    <td>Improv</td>
-    <td>
-       <a href="https://GitHub.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
-    </td>
-  </tr>
-  <tr>
     <td>Intro to Group Project</td>
     <td>
        <a href="lectures/group-project-introduction">Lecture: Group Project Intro</a>
