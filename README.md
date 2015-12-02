@@ -31,3 +31,5 @@ Note: Given differing class and course lengths, we have not broken down the mate
 
 ### [Unit 9 - APIs](unit-09)
 
+
+<a href='https://learn.co/lessons/precollege-school-year-intro-software-engineering-teacher-guide' data-visibility='hidden'>View this lesson on Learn.co</a>
